@@ -4,6 +4,8 @@
 format: jb-book
 root: index
 chapters:
-- file: Ch2_Cross Validation
-- file: Ch3_Backtesting
-- file: Derivatives
+- file: content/Ch2_Cross Validation
+- file: content/Ch3_Backtesting
+- file: content/Derivatives
+- file: content/Ch6_Market_Risk_Premium
+- file: content/volatility_drag
